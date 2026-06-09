@@ -1,3 +1,3 @@
 <H1> TURMA DE COMANDOS ELÉTRICOS SENAI SANTA BÁRBRA D'OESTE - COM.E.AP.N.1</H1>
 
-<P>CONTATO PROFESSOR LUCAS CALU: email: lucas.c@docente.senai </P>
+<P>CONTATO PROFESSOR LUCAS CALU: email: lucas.c@docente.senai.br </P>
