@@ -1,0 +1,19 @@
+1. Levantamento de Dados (Placa do Motor)
+Antes de tudo, tenha em mãos os seguintes dados do motor:
+Potência do motor (CV ou kW)
+Tensão de alimentação (V)
+Corrente Nominal (\(I_{n}\))
+Fator de Serviço (FS)
+Rendimento e Fator de Potência (caso precise calcular a corrente)
+2. Cálculo da Corrente de Ajuste
+A corrente do disjuntor motor deve ser ajustada para proteger o equipamento contra sobrecargas. 
+A fórmula para a corrente de ajuste é:
+I ajuste}=I * FS)
+Exemplo prático: Se o seu motor possui uma corrente nominal de 7,8 A e um Fator de Serviço (FS) de 1,15, a corrente de ajuste será: 7,8 × 1,15 = 8,97 A.
+3. Seleção do Disjuntor Motor
+Com o valor da corrente de ajuste calculado, escolha um disjuntor motor cuja faixa de ajuste inclua esse valor.
+Critério: A corrente de ajuste deve ficar preferencialmente no meio da escala do dial do disjuntor.
+Exemplo prático: Para o valor de 8,97 A do exemplo anterior, o ideal seria utilizar um disjuntor motor com faixa de ajuste entre 6,3 A e 10 A
+4. Verificação da Corrente de Partida
+O disjuntor motor possui proteção magnética contra curto-circuito que deve suportar a corrente de partida (que costuma ser de 6 a 8 vezes maior que a nominal) sem desarmar instantaneamente. 
+Verifique no catálogo do fabricante se a corrente de interrupção instantânea do modelo escolhido é superior ao pico de partida do seu motor.
