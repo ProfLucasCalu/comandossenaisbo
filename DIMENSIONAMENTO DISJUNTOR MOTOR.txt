@@ -2,7 +2,7 @@
 Antes de tudo, tenha em mãos os seguintes dados do motor:
 Potência do motor (CV ou kW)
 Tensão de alimentação (V)
-Corrente Nominal (\(I_{n}\))
+Corrente Nominal (In)
 Fator de Serviço (FS)
 Rendimento e Fator de Potência (caso precise calcular a corrente)
 2. Cálculo da Corrente de Ajuste
